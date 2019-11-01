@@ -1,4 +1,5 @@
-![alt text](1.png)
+![alt text](1.PNG)
+
 ##rs.status()
 ```
 {
@@ -213,7 +214,9 @@
 	}
 }
 ```
-![alt text](2.png)
+
+![alt text](2.PNG)
+
 ##rs.status()
 ```
 {
